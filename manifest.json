@@ -1,0 +1,22 @@
+{
+	"manifest_version": 3,
+    "name": "mumbler",
+    "version": "1.0.0",
+    "description": "collect your mumbles",
+    "icons": {
+        "16": "M.png",
+        "48": "M.png",
+        "128": "M.png"
+    }, 
+    "action": {
+        "default_icon": {
+            "16": "M.png",
+            "24": "M.png",
+            "32": "M.png"
+        },
+        "default_title": "Mumbler",
+        "default_popup": "popup.html"
+    },
+    "options_page": "options.html",
+    "permissions": ["storage"]
+ }

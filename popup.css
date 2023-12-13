@@ -1,0 +1,15 @@
+body {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+#text-area {
+    margin-top: 10px;
+    width: 190px;
+    height: 80px;
+    resize: none;
+}
+#send-btn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
